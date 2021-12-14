@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCart", "DevCart\DevCart.csproj", "{7CA61290-5891-4FEB-A7F6-E7C537B329D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA61290-5891-4FEB-A7F6-E7C537B329D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA61290-5891-4FEB-A7F6-E7C537B329D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA61290-5891-4FEB-A7F6-E7C537B329D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA61290-5891-4FEB-A7F6-E7C537B329D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A47CCF-8F2E-45D7-853A-5459B8EB885E}
+	EndGlobalSection
+EndGlobal
